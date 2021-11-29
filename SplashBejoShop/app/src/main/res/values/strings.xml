@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SplashBejoShop</string>
+    <string name="keluar">
+
+Keluar
+</string>
+    <string name="stock_baran">
+
+Stock Barang
+</string>
+    <string name="kasir">
+
+Kasir
+</string>
+    <string name="rekapitulas">
+
+Rekapitulasi
+</string>
+</resources>
